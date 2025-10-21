@@ -7,7 +7,7 @@ const resources = [
     title: "Google Drive Resources",
     description: "Access our comprehensive collection of study materials and guides",
     icon: FolderOpen,
-    links: [{ name: "Satopia Resource Drive", url: "https://drive.google.com/drive/u/3/my-drive" }],
+    links: [{ name: "Satopia Resource Drive", url: "https://drive.google.com/drive/folders/1oFHVGyGaLCQWncB7__sezp7H3VrXN1Nc?usp=sharing" }],
   },
   {
     title: "Math Resources",
